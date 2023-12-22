@@ -1,0 +1,20 @@
+{
+    "id": "pf2e-turnbased-movement-tracker",
+    "name" : "pf2e-turnbased-movement-tracker",
+    "title": "PF2E Turnbased Movement Tracker",
+    "description": "A simple turnbased movement tracker",
+    "authors": [
+      {
+      "name": "mammalwithashell"
+      }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+      "minimum": "10",
+      "verified": "11"
+    },
+    "esmodules": ["scripts/module.js"],
+    "styles": [
+        "styles/main.css"
+    ]
+  }

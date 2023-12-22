@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "rollup-plugin-copy": "^3.5.0",
+    "typescript": "^5.3.3",
+    "vite": "^5.0.10",
+    "yarn": "^1.22.21"
+  },
+  "scripts": {
+    "build": "tsc && vite build"
+  },
+  "devDependencies": {
+    "@league-of-foundry-developers/foundry-vtt-types": "^9.280.0"
+  }
+}
